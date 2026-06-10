@@ -21,3 +21,6 @@ Dashboard desarrollado en Power BI para analizar ventas e inventario de una tien
 ## Autor
 Angie Tejada
 Ingeniera Industrial
+## Dashboard Preview
+
+![Dashboard](image.png)
